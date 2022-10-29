@@ -6,12 +6,12 @@
 # Step 1:
 # Create dockerpath
 # dockerpath=<your docker ID/path>
-dockerpath=vineetrai089/udacity
+dockerpath=ashishgupta1982/udacity-project4
 
 # Step 2:  
 # Authenticate & tag
 echo "Docker ID and Image: $dockerpath"
-docker login --username=vineetrai089
+docker login --username=ashishgupta1982
 docker tag udacity $dockerpath
 
 # Step 3:
