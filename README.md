@@ -1,4 +1,4 @@
-[![ashish-gupta-1982](https://circleci.com/gh/ashish-gupta-1982/udacityproject4.svg?style=svg)](https://github.com/ashish-gupta-1982/UdacityProject4/tree/master)
+[![ashish-gupta-1982](https://circleci.com/gh/ashish-gupta-1982/UdacityProject4.svg?style=svg)](https://github.com/ashish-gupta-1982/UdacityProject4/tree/master)
 
 ## Project Summary
 
